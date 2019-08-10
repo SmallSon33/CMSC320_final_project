@@ -1,3 +1,3 @@
-#Specifications
+# README
 
-This is the specifications of how the methods work in recom_gender.py file. 
+Please go to [yz33.github.io] to see the final project of anaylsising PUBG data.
